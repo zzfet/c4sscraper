@@ -24,5 +24,16 @@ This script accepts the following parameters:\
 
 If no parameters are passed, you are asked interactively for a URL and whether you want to save images.
 
+# Requirements
+- requests
+- datetime
+- re
+- json
+- time
+- os
+- argparse
+- tarfile
+- shutil
+
 # License
 Do whatever you like - I relinquish this into the public domain. I hope it serves as a good starting point to someone, or helps with the preservation of C4S data.
